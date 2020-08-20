@@ -1,1 +1,1 @@
-# sierpi-ski-triangle
+# sierpinski-triangle
